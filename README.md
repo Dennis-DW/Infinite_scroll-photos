@@ -55,6 +55,3 @@ This project is inspired by various photo gallery applications and tutorials ava
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This README provides an overview of the Unsplash Photo Gallery application, its features, usage instructions, implementation details, installation process, technologies used, credits, and license information. Adjustments can be made based on specific project requirements.
